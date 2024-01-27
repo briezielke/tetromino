@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAACQmZmZmZmZ+RiBiIiIiIj4GIiIiIiIiPiIiIiIiIiI+IiIiIiIiIj4iIiIiIiIiPiIiIiIiIiI+IiIiIiIiIj4iIiIiIiIiPiIiIiIiIiI+IiIiIiIiIj4iIiIiIiIiPiIiIiIiIiI+IiIiIiIiIj4iIiIiIiIiPiIiIiIiIiI+A==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "square tetroblock"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
